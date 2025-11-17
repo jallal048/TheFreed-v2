@@ -103,7 +103,7 @@ TheFreed.v1/
 - **Notification** - Notificaciones del sistema
 
 ### Modelos Financieros
-- **Payment** - Transacciones de pago con Stripe
+- **Payment** - Transacciones de pago (sin decidir aun)
 - **Transaction** - Historial de transacciones
 - **Earnings** - Ganancias de creadores
 - **Dispute** - Disputas de pagos
